@@ -55,7 +55,7 @@ def process():
         # Print prediction and confidence score
         print(f"Class: {class_name[2:]}")
         print(f"Confidence Score: {int(np.round(confidence_score * 100))}%")
-        print("Github:")
+        print("Github: https://github.com/Felip3Carneiro/Desafio-IA-x-DEV-x-Dados---hand-driver.git")
         print("\033[4A\033[J", end="")
 
         # Listen to the keyboard for presses.
