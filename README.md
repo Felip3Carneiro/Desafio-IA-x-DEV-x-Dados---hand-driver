@@ -94,12 +94,16 @@ O reconhecimento pode variar dependendo de:
 ---
 
 ## 📷 Exemplo do sistema em funcionamento
-
+<h2 align="center">Demonstração 1</h2>
 <img width="1920" height="1080" alt="vlcsnap-2026-05-23-21h59m38s015" src="https://github.com/user-attachments/assets/5bb6583b-842a-4be0-b1ca-bad0ecedd29d" />
 
-![Video daora](video\video.gif)
+<h2 align="center">Demonstração 2</h2>
 
-```
+<p align="center">
+  <img src="video/video.gif" alt="Demonstração do projeto" width="800">
+</p>
+
+---
 
 Acabou
 
