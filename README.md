@@ -97,7 +97,7 @@ O reconhecimento pode variar dependendo de:
 
 <img width="1920" height="1080" alt="vlcsnap-2026-05-23-21h59m38s015" src="https://github.com/user-attachments/assets/5bb6583b-842a-4be0-b1ca-bad0ecedd29d" />
 
-[Assistir ao vídeo](video/video.mp4)
+![Video daora](video\video.gif)
 
 ```
 
